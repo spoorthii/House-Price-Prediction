@@ -52,5 +52,5 @@ Getting the Data Needed
 
 Datasets:
 
-Direct Link to all the data sets used : https://www.kaggle.com/c/5407/download-all
-Link to Kaggle - https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data
+Direct Link to all the data sets used : http://www.bee-viva.com/competitions/ames
+
