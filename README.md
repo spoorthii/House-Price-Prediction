@@ -17,7 +17,7 @@ Abstract
 
 We are working on a project to predict the sales prices of houses. For each Id in the test set,
 we should be able to predict the value of the SalePrice variable. We have retrieved data from 
-Kaggle and did EDA, used various regression techniques, applied ensemble Model and also applied 
+BeeViva and did EDA, used various regression techniques, applied ensemble Model and also applied 
 Neural Network for tensor flow to get the best results.
 
 
