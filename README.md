@@ -3,9 +3,9 @@ Data Science
 House Price Forecasting using Ensemble and Tensorflow
 
 
-Spoorthi Bellam | Prasanth Thota
+Spoorthi B
 
-bellam.s@husky.neu.edu | thota.sa@husky.neu.edu 
+bellam.s@husky.neu.edu 
 
 INFO 7390: Advances in Data Sciences and Architecture
 
